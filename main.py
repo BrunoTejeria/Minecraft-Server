@@ -12,7 +12,7 @@ minecraft_server_host = "127.0.0.1"  # Cambia esto a la IP del servidor si es ne
 minecraft_server_port = 25565  # Puerto predeterminado de Minecraft
 
 # Ruta al archivo ejecutable del servidor de Minecraft
-minecraft_server_path = "" # Poner path del servidor
+minecraft_server_path = "1.20.4/server.jar" # Poner path del servidor
 
 
 # Memoria  ram del servidor
