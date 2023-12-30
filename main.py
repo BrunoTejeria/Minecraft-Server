@@ -6,10 +6,10 @@ import time
 
 
 # Dirección ip del server.
-server_host = "127.0.0.1"  # Cambia esto a la IP del servidor si es necesario
+minecraft_server_host = "127.0.0.1"  # Cambia esto a la IP del servidor si es necesario
 
 # Puerto del  servidor.
-server_port = 25565  # Puerto predeterminado de Minecraft
+minecraft_server_port = 25565  # Puerto predeterminado de Minecraft
 
 # Ruta al archivo ejecutable del servidor de Minecraft
 minecraft_server_path = "" # Poner path del servidor
@@ -55,4 +55,4 @@ if __name__ == "__main__":
 	# Verifica el estado del servidor
 
 
-	check_server_status(server_host, server_port)
+	check_server_status(minecraft_server_host, minecraft_server_port)
