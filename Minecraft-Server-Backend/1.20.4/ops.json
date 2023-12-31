@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "ee843317-92de-47c9-a53e-4cf690693f44",
+    "name": "Blad",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
