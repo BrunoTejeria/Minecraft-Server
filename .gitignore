@@ -15,6 +15,9 @@ dist/
 dist-ssr/
 *.local
 
+
+Minecraft-Server-Backend\1.20.4\world
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
